@@ -6,10 +6,11 @@ Portfólio web moderno, limpo e responsivo desenvolvido para **Ana Clara Fischer
 
 ## 🌟 Características & Diferenciais do Projeto
 
-- **Estética Clara & Limpa**: Fundo claro suave (`#faf9f9`) com tipografia moderna (*Plus Jakarta Sans*), transmitindo profissionalismo e elegância.
-- **Identidade Temática Musical & Tons Vermelhos**:
-  - Elemento decorativo de disco de vinil interativo (*33 RPM*) emoldurando a foto de perfil oficial.
-  - Paleta de cores em tons de **vermelho carmim/rubi** (`ruby-600`, `rose-500`) em botões, destaques e gradientes.
+- **Estética Dark Noir Sofisticada**: Fundo em **Preto Obsidiana** (`#09090b`) com gradientes rubis aveludados e tipografia de alto contraste (*Plus Jakarta Sans*), transmitindo elegância, modernidade e identidade visual única.
+- **Identidade Temática Musical & Chase Atlantic**:
+  - Elemento decorativo de disco de vinil interativo (*33 RPM*) em rotação contínua posicionado atrás da foto oficial.
+  - Partículas e faixas musicais luminosas com rosa decorativa carmesim Chase Atlantic.
+  - Paleta de cores em tons de **vermelho carmim/rubi** (`ruby-600`, `rose-500`, `red-600`) em botões, destaques e gradientes.
   - Equalizador gráfico de ondas sonoras dinâmico.
   - Divisão das seções no formato conceitual de faixas musicais (*Faixa 01 a Faixa 06*).
   - Mini reprodutor musical interativo com sintetizador de melodias relaxantes via **Web Audio API** (sem dependência de arquivos de áudio externos, com controle de play/pause e mute).
