@@ -178,7 +178,7 @@ export default function Hero({ onOpenResume }) {
         className="absolute -top-12 -left-16 sm:left-auto sm:-right-16 md:-right-10 lg:right-4 w-72 sm:w-96 md:w-[440px] lg:w-[500px] pointer-events-none z-[2] select-none opacity-80 filter drop-shadow-2xl"
       >
         <img
-          src="/images/chase-rose-petals.png"
+          src="./images/chase-rose-petals.png"
           alt="Rosa Decorativa Chase Atlantic"
           className="w-full h-auto object-contain transform hover:rotate-6 transition-transform duration-700"
         />
@@ -360,7 +360,7 @@ export default function Hero({ onOpenResume }) {
               {/* Foreground Floating Rose Layer in bottom corner */}
               <div className="absolute -bottom-8 -right-8 w-32 sm:w-40 z-20 pointer-events-none select-none filter drop-shadow-xl transform rotate-6">
                 <img
-                  src="/images/chase-rose-petals.png"
+                  src="./images/chase-rose-petals.png"
                   alt="Rosa Chase Atlantic"
                   className="w-full h-auto object-contain"
                 />

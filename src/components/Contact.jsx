@@ -25,7 +25,7 @@ export default function Contact() {
       {/* Decorative Chase Atlantic Rose Accent in Corner */}
       <div className="absolute -bottom-16 -right-16 w-60 sm:w-72 opacity-20 pointer-events-none select-none filter blur-[0.5px] rotate-12">
         <img
-          src="/images/chase-rose-petals.png"
+          src="./images/chase-rose-petals.png"
           alt="Rosa Chase Atlantic"
           className="w-full h-auto object-contain"
         />

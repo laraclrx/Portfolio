@@ -48,7 +48,7 @@ export default function ResumeModal({ isOpen, onClose }) {
 
             <div className="flex items-center gap-2">
               <a
-                href="/curriculo-ana-clara.pdf"
+                href="./curriculo-ana-clara.pdf"
                 download="Curriculo_Ana_Clara_Fischer.pdf"
                 onClick={handleDownload}
                 className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl bg-ruby-600 hover:bg-ruby-500 text-white text-xs font-bold transition-all shadow-md shadow-ruby-950/50"
@@ -70,7 +70,7 @@ export default function ResumeModal({ isOpen, onClose }) {
           {/* Document Preview Image Scrollable */}
           <div className="p-4 sm:p-6 bg-black/70 overflow-y-auto flex items-center justify-center flex-1 border-t border-b border-zinc-800/50">
             <img
-              src="/curriculo-ana-clara.png"
+              src="./curriculo-ana-clara.png"
               alt="Currículo Oficial de Ana Clara Fischer"
               className="w-full max-w-2xl rounded-lg shadow-2xl border border-zinc-800"
             />
@@ -85,7 +85,7 @@ export default function ResumeModal({ isOpen, onClose }) {
 
             <div className="flex items-center gap-2">
               <a
-                href="/curriculo-ana-clara.pdf"
+                href="./curriculo-ana-clara.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-1 text-ruby-400 font-bold hover:underline"

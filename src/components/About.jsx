@@ -41,7 +41,7 @@ export default function About() {
       {/* Decorative Chase Atlantic Rose Background Watermark */}
       <div className="absolute -left-20 -bottom-20 w-80 sm:w-96 opacity-20 pointer-events-none select-none -rotate-12 filter blur-[0.5px]">
         <img
-          src="/images/chase-rose-petals.png"
+          src="./images/chase-rose-petals.png"
           alt="Rosa Decorativa"
           className="w-full h-auto object-contain"
         />
@@ -69,7 +69,7 @@ export default function About() {
             style={{ left: petal.left, top: petal.top }}
           >
             <img
-              src="/images/chase-rose-petals.png"
+              src="./images/chase-rose-petals.png"
               alt="Pétala Chase Atlantic"
               className="w-full h-auto object-contain"
             />

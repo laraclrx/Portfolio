@@ -9,8 +9,8 @@ export const certificatesData = [
     category: "Dados & Produtividade",
     level: "Avançado",
     description: "Domínio em funções complexas, tabelas dinâmicas, consolidação de bases de dados, formatação estratégica e automação de fluxos analíticos.",
-    image: "/certificates/cert-excel-avancado.png",
-    pdfUrl: "/certificates/cert-excel-avancado.pdf",
+    image: "./certificates/cert-excel-avancado.png",
+    pdfUrl: "./certificates/cert-excel-avancado.pdf",
     validationUrl: "https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=11169866&p=M7N4jOHuvbchV5bYPhjqK9%252f5oJWjTz88",
     tags: ["Fórmulas Dinâmicas", "Tabelas Dinâmicas", "Relatórios", "Análise de Dados"]
   },
@@ -24,8 +24,8 @@ export const certificatesData = [
     category: "Dados & Produtividade",
     level: "Intermediário",
     description: "Construção de gráficos informativos, formatação condicional, aplicação de funções lógicas (SE, E, OU) e pesquisa (PROCV/PROCH).",
-    image: "/certificates/cert-excel-intermediario.png",
-    pdfUrl: "/certificates/cert-excel-intermediario.pdf",
+    image: "./certificates/cert-excel-intermediario.png",
+    pdfUrl: "./certificates/cert-excel-intermediario.pdf",
     validationUrl: "https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=11169866&p=M7N4jOHuvbchRrj9nIkagd6k537T3qwJ",
     tags: ["Gráficos", "PROCV / SE", "Formatação Condicional", "Planilhas"]
   },
@@ -39,8 +39,8 @@ export const certificatesData = [
     category: "Design & Apresentação",
     level: "Avançado",
     description: "Elaboração de apresentações corporativas de alto impacto, animações inteligentes com timing preciso, transições cinematográficas e multimídia.",
-    image: "/certificates/cert-powerpoint-avancado.png",
-    pdfUrl: "/certificates/cert-powerpoint-avancado.pdf",
+    image: "./certificates/cert-powerpoint-avancado.png",
+    pdfUrl: "./certificates/cert-powerpoint-avancado.pdf",
     validationUrl: "https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=11169866&p=M7N4jOHuvbcvUGDOZ4G2AQ2cdth%252be2V7",
     tags: ["Apresentações Visuais", "Design de Slides", "Animação Multimídia", "Storytelling"]
   },
@@ -54,8 +54,8 @@ export const certificatesData = [
     category: "Design & Apresentação",
     level: "Fundamental",
     description: "Fundamentos de hierarquia visual, tipografia em apresentações, diagramação de elementos e comunicação clara de ideias e propostas.",
-    image: "/certificates/cert-powerpoint-basico.png",
-    pdfUrl: "/certificates/cert-powerpoint-basico.pdf",
+    image: "./certificates/cert-powerpoint-basico.png",
+    pdfUrl: "./certificates/cert-powerpoint-basico.pdf",
     validationUrl: "https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateContent.aspx?uid=11169866&p=M7N4jOHuvbcLcyIqhpVLSXXfuIsuc3rd",
     tags: ["Comunicação Visual", "Layout de Slides", "Fundamentos", "Produtividade"]
   }

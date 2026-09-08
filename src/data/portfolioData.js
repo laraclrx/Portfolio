@@ -15,7 +15,7 @@ export const personalInfo = {
   instagramUser: "@anaclara.fischer",
   linkedin: "https://linkedin.com",
   github: "https://github.com",
-  photo: "/images/ana-clara.jpg"
+  photo: "./images/ana-clara.jpg"
 };
 
 export const playlistTracks = [

@@ -9,7 +9,7 @@ export default function Skills() {
       {/* Subtle Chase Atlantic Rose Outline Watermark */}
       <div className="absolute -right-20 top-16 w-80 sm:w-96 opacity-[0.08] pointer-events-none select-none filter blur-[0.5px]">
         <img
-          src="/images/chase-rose-petals.png"
+          src="./images/chase-rose-petals.png"
           alt="Rose Outline"
           className="w-full h-auto object-contain grayscale"
         />
